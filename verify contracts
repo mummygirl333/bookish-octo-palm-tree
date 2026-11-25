@@ -1,0 +1,47 @@
+{assistant.myai@proton.me"},"nameAuthor":{"ok":true,"value":"assistant.myai@proton.me"},"directRole":"admin","ownedBy":{"email":"assistant.myai@proton.me"},"type":"file","mediaType":"multipart/related","isShared":false,"isSharedByUrl":false,"creationTime":"2026-11-23T08:20:42.000Z","modificationTime":"2026-11-23T08:20:54.000Z","totalStorageSize":2109782,"activeRevision":{"uid":"3eJKu_sHX04g6K2FqkpzvQ~ThLB4prftcJet-2SCir8dQ~xDG6IVG_i-N6VCx_jkl7FQ","state":"active","creationTime":"2026-11-23T08:20:42.000Z","contentAuthor":{"ok":true,"value":"assistant.myai@proton.me"},"storageSize":2109782,"isImported":false,"claimedSize":2109410,"claimedModificationTime":"2026-11-23T08:20:32.000Z","claimedDigests":{"sha1":"cdf377f875f7c997929208dab423a58bbae039c7","sha1Verified":false}},"treeEventScopeId":"3eJKu_sHX04g6K2FqkpzvQ"}
+
+{
+  "uid": "3eJKu_sHX04g6K2FqkpzvQ~ThLB4prftcJet-2SCir8dQ",
+  "parentUid": "3eJKu_sHX04g6K2FqkpzvQ~sEQ2acUETTJPclRfUAbeVA",
+  "name": {
+    "ok": true,
+    "value": "Verify contracts with the Hardhat plugin on Blockscout - Blockscout.mht"
+  },
+  "keyAuthor": {
+    "ok": true,
+    "value": "assistant.myai@proton.me"
+  },
+  "nameAuthor": {
+    "ok": true,
+    "value": "assistant.myai@proton.me"
+  },
+  "directRole": "admin",
+  "ownedBy": {
+    "email": "assistant.myai@proton.me"
+  },
+  "type": "file",
+  "mediaType": "multipart/related",
+  "isShared": false,
+  "isSharedByUrl": false,
+  "creationTime": "2026-11-23T08:20:42.000Z",
+  "modificationTime": "2026-11-23T08:20:54.000Z",
+  "totalStorageSize": 2109782,
+  "activeRevision": {
+    "uid": "3eJKu_sHX04g6K2FqkpzvQ~ThLB4prftcJet-2SCir8dQ~xDG6IVG_i-N6VCx_jkl7FQ",
+    "state": "active",
+    "creationTime": "2026-11-23T08:20:42.000Z",
+    "contentAuthor": {
+      "ok": true,
+      "value": "assistant.myai@proton.me"
+    },
+    "storageSize": 2109782,
+    "isImported": false,
+    "claimedSize": 2109410,
+    "claimedModificationTime": "2026-11-23T08:20:32.000Z",
+    "claimedDigests": {
+      "sha1": "cdf377f875f7c997929208dab423a58bbae039c7",
+      "sha1Verified": false
+    }
+  },
+  "treeEventScopeId": "3eJKu_sHX04g6K2FqkpzvQ"
+}
